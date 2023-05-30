@@ -4,13 +4,14 @@
 
 Commands	Description
 
-access : Used to check whether the calling program has access to a specified file. It can be used to check whether a file exists or not
-accton :Used to turn on or turn off the process for accounting or change info process accounting file
-aclocal	:Used to automatically generate aclocal.m4 files from configure.in file
-acpi	Used to display the battery status and other ACPI information
+(1) Access : Used to check whether the calling program has access to a specified file. It can be used to check whether a file exists or not
+
+(2) Accton :Used to turn on or turn off the process for accounting or change info process accounting file
+(3) Aclocal	:Used to automatically generate aclocal.m4 files from configure.in file
+(4) Acpi:Used to display the battery status and other ACPI information
 acpi_available	Tests whether ACPI (Advanced Configuration and Power Interface) subsystem is available or not
-acpid	It provides intelligent power management on a system and is used to notify the user-space programs about the ACPI events
-addr2line	Used to convert addresses into file names and line numbers
+(5) Acpid	It provides intelligent power management on a system and is used to notify the user-space programs about the ACPI events
+(6) Addr2line	Used to convert addresses into file names and line numbers
 agetty	It is a Linux version of getty, which is a Unix program running on a host computer that manages physical or virtual terminals to allow multi-user access
 alias	Instructs the shell to replace one string with another string while executing the commands
 amixer	It is a command-line mixer for ALSA(Advanced Linux Sound Architecture) sound-card driver
