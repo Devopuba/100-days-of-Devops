@@ -1,11 +1,12 @@
-Linux is a Unix-Like operating system.
-All the Linux/Unix commands are run in the terminal provided by the Linux system.
+
+# Linux
+# All the Linux/Unix commands are run in the terminal provided by the Linux system.
 
 Commands	Description
 
-access	Used to check whether the calling program has access to a specified file. It can be used to check whether a file exists or not
-accton	Used to turn on or turn off the process for accounting or change info process accounting file
-aclocal	Used to automatically generate aclocal.m4 files from configure.in file
+access : Used to check whether the calling program has access to a specified file. It can be used to check whether a file exists or not
+accton :Used to turn on or turn off the process for accounting or change info process accounting file
+aclocal	:Used to automatically generate aclocal.m4 files from configure.in file
 acpi	Used to display the battery status and other ACPI information
 acpi_available	Tests whether ACPI (Advanced Configuration and Power Interface) subsystem is available or not
 acpid	It provides intelligent power management on a system and is used to notify the user-space programs about the ACPI events
