@@ -8,15 +8,23 @@ Commands	Description
 
 (2) Accton :Used to turn on or turn off the process for accounting or change info process accounting file
 (3) Aclocal	:Used to automatically generate aclocal.m4 files from configure.in file
+
 (4) Acpi:Used to display the battery status and other ACPI information
 acpi_available	Tests whether ACPI (Advanced Configuration and Power Interface) subsystem is available or not
-(5) Acpid	It provides intelligent power management on a system and is used to notify the user-space programs about the ACPI events
-(6) Addr2line	Used to convert addresses into file names and line numbers
+
+(5) Acpid-It provides intelligent power management on a system and is used to notify the user-space programs about the ACPI events
+
+(6) Addr2line-Used to convert addresses into file names and line numbers
 agetty	It is a Linux version of getty, which is a Unix program running on a host computer that manages physical or virtual terminals to allow multi-user access
-alias	Instructs the shell to replace one string with another string while executing the commands
-amixer	It is a command-line mixer for ALSA(Advanced Linux Sound Architecture) sound-card driver
-aplay	It is a command-line audio player for ALSA(Advanced Linux Sound Architecture) sound card drivers.
-aplaymidi	Used to play standard MIDI(Musical Instrument Digital Interface) files, by sending the content of a MIDI file to an ALSA(Advanced Linux Sound Architecture) MIDI port
+
+(7) Alias-Instructs the shell to replace one string with another string while executing the commands
+
+(8) Amixer-It is a command-line mixer for ALSA(Advanced Linux Sound Architecture) sound-card driver
+
+(9) Aplay-It is a command-line audio player for ALSA(Advanced Linux Sound Architecture) sound card drivers.
+
+(10)aplaymidi-Used to play standard MIDI(Musical Instrument Digital Interface) files, by sending the content of a MIDI file to an ALSA(Advanced Linux Sound Architecture) MIDI port
+
 apropos	It helps the user when they don’t remember the exact command but knows a few keywords related to the command that define its uses or functionality
 apt	Provides a high-level CLI (Command Line Interface) for the package management system and is intended as an interface for the end user which enables some options better suited for interactive usage by default compared to more specialized APT tools like apt-cache and apt-get
 apt-get	It is a command-line tool which helps in handling packages in Linux
